@@ -38,6 +38,6 @@ Use the following command:
 ```bash
 npm install
 npm start
+```
 
-```text
-TO_DO.png
+![Project Screenshot](images/TO_DO.png)
